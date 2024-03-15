@@ -1,2 +1,1 @@
-# life-story
-this repo contains my life story
+#This is a Luxury tour direction project.
